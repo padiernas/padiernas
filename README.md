@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Santiago Padierna</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="100%">
+<img src="https://media.tenor.com/images/c1191ca56482c432043395f64cfb9a80/tenor.gif" width="100%">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=padiernas&label=Profile%20views&color=0e75b6&style=flat" alt="padiernas" /> </p>
