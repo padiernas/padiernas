@@ -1,4 +1,4 @@
-<# align="center"># there 👋, I'm Santiago Padierna</h1>
+<h1 align="center"> Hi there 👋, I'm Santiago Padierna</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 <img src="https://media.tenor.com/images/c1191ca56482c432043395f64cfb9a80/tenor.gif" width="100%">
